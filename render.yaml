@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: alist
+    name: blist
     env: docker
     repo: https://github.com/LouisKJ/Alist-on-Render.git # optional
     region: oregon # optional (defaults to oregon)
